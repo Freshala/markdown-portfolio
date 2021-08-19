@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+**Freshala**
+![**Image of Yaktocat**](https://octodex.github.com/images/yaktocat.png)
+<br>
 
-{% include 01-name.md %}
-
+[GitHub]https://github.com/Freshala
