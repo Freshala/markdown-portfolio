@@ -12,4 +12,4 @@ layout: default
 
 {% include 03-links.md %}
 
-https://github.com/Freshala
+[GitHub]https://github.com/Freshala
